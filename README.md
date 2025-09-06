@@ -20,7 +20,7 @@
 
 1. Clone repo 
 ```
-git clone https://github.com/your-username/healthcare-backend.git
+https://github.com/Rachit333/WhatBytes_assignment.git
 cd healthcare-backend
 ```
 2. Install dependencies
